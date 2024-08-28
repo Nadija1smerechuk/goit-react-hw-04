@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Loader from '../Loader/Loader';
-import { getPhotos } from '../../Unsplash';
+import { getPhotos } from '../../unsplash';
 import './App.css';
 import SearchBar from '../SearchBar/SearchBar';
 import ImageGallery from '../ImageGallery/ImageGallery';
