@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.wrap {
+    width: calc((100% - 40px) / 3)
+    
+}
+
